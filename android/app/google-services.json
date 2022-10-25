@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935302203736",
+    "project_id": "orderapp-35064",
+    "storage_bucket": "orderapp-35064.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935302203736:android:b5392b5db40fe3d4f5bd2d",
+        "android_client_info": {
+          "package_name": "com.bits.digital_menu_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935302203736-j2k5ch1h1ngcpfs1h6e5jaui0kh6mdu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn-h7ZOwfj0V49xc4qYrwj1C9dYh6irlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935302203736-j2k5ch1h1ngcpfs1h6e5jaui0kh6mdu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
